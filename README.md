@@ -1,6 +1,7 @@
 # 📄 Scannify - AI-Powered PDF Scanner & Enhancer
 
 > Transform your PDFs with the power of AI! Scan, analyze, summarize, and enhance any PDF document using Google's generative AI.
+>Video Demonstration - https://youtu.be/WlriddTdNNI
 
 ## ✨ Features
 
