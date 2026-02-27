@@ -269,13 +269,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **ReportLab** for PDF generation
 - **LangChain** for AI orchestration
 
-## 📞 Support
-
-- **Issues**: Report bugs on GitHub Issues
-- **Documentation**: Check the Wiki
-- **Community**: Join our Discord server
-- **Email**: support@scannify.com
-
 ---
 
 **Made with ❤️ and AI** | **© 2026 Scannify Project**
